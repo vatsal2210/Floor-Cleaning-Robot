@@ -1,0 +1,2 @@
+# Floor-Cleaning-Robot
+The purpose of this project is to design and implement a Vacuum Robot Autonomous and Manual via Phone Application. Vacuum Cleaner Robot is designed to make cleaning process become easier rather than by using manual vacuum. The main objective of this project is to design and implement a vacuum robot prototype by using Arduino Mega, Arduino Shield, LDR Sensor, Real Time Clock, Motor Shield L293D, Ultrasonic Sensor, and IR Sensor and to achieve the goal of this project. Vacuum Robot will have several criteria that are user-friendly.
